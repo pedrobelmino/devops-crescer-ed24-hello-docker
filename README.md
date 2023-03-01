@@ -1,4 +1,4 @@
-LAB do crescer 
+LAB do crescer - devops Aula 1
 ============================
 
 **Pré-requisitos**
