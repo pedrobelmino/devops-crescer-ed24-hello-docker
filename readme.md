@@ -28,6 +28,11 @@ show collections
 db.filmes.find()
 ```
 
+**Para em desenvolvimento rodar apenas mongo, executar no wsl **
+```bash
+docker-compose run mongodb
+```
+
 **Conectado no wsl, forçar remoção dos volumes, networks e containers **
 ```bash
 docker-compose down -v
